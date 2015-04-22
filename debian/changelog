@@ -1,3 +1,9 @@
+sugar-clock-activity (15-0tch2) UNRELEASED; urgency=medium
+
+  * Revised dependencies.
+
+ -- Martin Abente Lahaye <tch@tch>  Wed, 22 Apr 2015 15:46:58 -0400
+
 sugar-clock-activity (15-0tch1) UNRELEASED; urgency=low
 
   * Initial release for Debian.
