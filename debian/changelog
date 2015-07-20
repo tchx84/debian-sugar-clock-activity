@@ -1,3 +1,9 @@
+sugar-clock-activity (18-1~0tch1) trusty; urgency=medium
+
+  * Updateto upstream.
+
+ -- Martin Abente Lahaye <tch@sugarlabs.org>  Mon, 20 Jul 2015 15:21:13 -0400
+
 sugar-clock-activity (15-0tch2) UNRELEASED; urgency=medium
 
   * Revised dependencies.
